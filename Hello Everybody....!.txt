@@ -1,0 +1,10 @@
+Hello Everybody....!
+As You Know My Name is Mr.Jagnyadatta Dalai,
+I'm Form Puri
+I Did 10th(schooling) at Dr. Mayadhar Mansingh Memorial High School,Nandala-Paikarapur PURI,
+And 12th At Kandakhai science and Arts College,Bajrakote
+I Have Completed My Graduation From R.C.M Science(degree) College from Berhampur University,
+Now I'm Pursuing Master in Computer Application(MCA) at IGIT,saranga(Odisha)
+Eduction Details Given in <Education Section>.
+My Hobbies are Solving Problems on Hackerrank,LeetCode. and Reading Mind Developing Books Also Playing Cricket.
+Thank You.
