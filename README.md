@@ -1,3 +1,3 @@
 # My_Portfolio
 My Portfolio
-URL = www.hellojagnyadatta.netlify.app
+URL = https://hellojagnyadatta.netlify.app
